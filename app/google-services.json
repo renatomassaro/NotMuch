@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56648960950",
+    "firebase_url": "https://not-much.firebaseio.com",
+    "project_id": "not-much",
+    "storage_bucket": "not-much.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56648960950:android:9237f533781501f6",
+        "android_client_info": {
+          "package_name": "com.fernando.notmuch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56648960950-qplmi5kmq0qpjq94n09gnl9bavodhnte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fernando.notmuch",
+            "certificate_hash": "1eb9cbbda8dd10cf7a0929759b99ad926b6946fa"
+          }
+        },
+        {
+          "client_id": "56648960950-897preqq4h9fq40tdcl87v8ihaakm806.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSc9mythWW-HXqHUO-LtfnJhHXufsTU7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56648960950-897preqq4h9fq40tdcl87v8ihaakm806.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
