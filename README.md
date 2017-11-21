@@ -4,7 +4,7 @@ A instant messaging application based on WhatsApp with the features that I would
 ## Features
 - Create an account using e-mail and password
 - Add friends
-- Recieve and send messages in real time
+- Receive and send messages in real time
 - Chat storage
 - Easy log out (if you don't want to talk)
 
